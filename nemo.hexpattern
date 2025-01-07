@@ -4,7 +4,7 @@
     Nullary Reflection
     Equality Distillation
     {
-        [@num(0), @num(0)]
+        {@num(0), @num(0)}
         Huginn's Gambit
     }
 
@@ -67,7 +67,8 @@
     Numerical Reflection(100)
     Minimus Distillation
     {
-        Mind's Reflection
+        @str(hungy....)
+        Flock's Disintegration
         Reveal
 
         Muninn's Reflection
