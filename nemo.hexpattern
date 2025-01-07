@@ -1,0 +1,205 @@
+#define Dilation Gambit (NORTH_WEST ddwaad)
+{
+    Muninn's Reflection
+    Nullary Reflection
+    Equality Distillation
+    {
+        Numerical Reflection: 0
+        Numerical Reflection: 0
+        Numerical Reflection: 2
+        Flock's Gambit
+        Huginn's Gambit
+    }
+
+    {
+        Muninn's Reflection
+        Flock's Disintegration
+        Numerical Reflection: 1
+        Additive Distillation
+        Numerical Reflection: 2
+        Flock's Gambit
+        Huginn's Gambit
+    }
+
+    Augur's Exaltation
+    Hermes' Gambit
+}
+
+#define Orbit Reflection (SOUTH_WEST qqqqqae) = -> vec
+{
+    Muninn's Reflection
+    Flock's Disintegration
+    Bookkeeper's Gambit: v-
+
+    Arc's Reflection
+    Numerical Reflection: 50
+    Division Distillation
+    Multiplicative Distillation
+
+    Gemini Decomposition
+    Gemini Decomposition
+    
+    Sine Purification
+    Numerical Reflection: 1
+    Multiplicative Distillation
+
+    Jester's Gambit
+
+    Cosine Purification
+    Numerical Reflection: 1
+    Multiplicative Distillation
+    
+    Rotation Gambit
+    Arc's Reflection
+    Numerical Reflection: 2
+    Division Distillation
+    Multiplicative Distillation
+    
+    Cosine Purification
+    Numerical Reflection: 0.25
+    Multiplicative Distillation
+    
+    Jester's Gambit
+    
+    Vector Exaltation
+}
+
+#define Check Media (NORTH_WEST ewedww)
+{
+    Reservoir Reflection
+    Numerical Reflection: 100
+    Minimus Distillation
+    {
+        Mind's Reflection
+        Reveal
+
+        Muninn's Reflection
+        Flock's Disintegration
+        Bookkeeper's Gambit: v-
+
+        Numerical Reflection: 1
+        Jester's Gambit
+
+        Numerical Reflection: 2
+        Flock's Gambit
+
+        Huginn's Gambit
+    }
+
+    {
+        Bookkeeper's Gambit: -
+    }
+
+    Augur's Exaltation
+    Hermes' Gambit
+}
+
+#define Circle Entity (EAST eeeee) = entity ->
+{
+    Orbit Reflection
+
+    Jester's Gambit
+    Mind's Reflection
+    Compass' Purification
+    Vector Reflection -Y
+    Numerical Reflection: 2
+    Division Distillation
+    Additive Distillation
+            
+    Additive Distillation
+            
+    Pathfinder's Gambit
+}
+
+#define Recharge Check = -> entity | null
+{
+    Mind's Reflection
+    Compass' Purification
+    
+    Zone Distillation: Wisp
+
+    {
+        Identity Reflection
+        Gemini Decomposition
+        Equality Distillation
+
+        {
+            Bookkeeper's Gambit: v
+        }
+
+        {
+            Bookkeeper's Gambit: -
+        }
+
+        Augur's Exaltation
+        Hermes' Gambit
+        
+    }
+
+    Thoth's Gambit
+
+    Gemini Decomposition
+
+    Vacant Reflection
+    Equality Distillation
+
+    {
+        Bookkeeper's Gambit: v
+        Nullary Reflection
+    }
+
+    {
+        Bookkeeper's Gambit: -
+    }
+
+    Augur's Exaltation
+    Hermes' Gambit
+}
+
+#define Wisp Control (WEST qqqwqqq)
+{
+    Dilation Gambit
+
+    Muninn's Reflection
+    Flock's Disintegration
+
+    Jester's Gambit
+    
+    {
+        Circle Entity
+        Check Media
+    }
+
+    {
+        Circle Entity
+        
+    }
+
+    Numerical Reflection: 2
+    Flock's Gambit
+    
+    Jester's Gambit
+
+    Selection Distillation
+    Hermes' Gambit
+
+    Bookkeeper's Gambit: v
+}
+
+
+#define Summon Idle Wisp
+{
+    {
+        Timekeeper's Reflection
+        Delay Wisp
+    }
+
+    Waystone Reflection
+    Vector Reflection +Y
+    Additive Distillation
+    
+
+    Jester's Gambit
+    Numerical Reflection: 900
+    Summon Cyclic Wisp
+}
