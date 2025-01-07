@@ -2,7 +2,7 @@ Muninn's Reflection
 Nullary Reflection
 Equality Distillation
 {
-    [@num(0), @num(0)]
+    {[@num(0), @num(0)]}
     Huginn's Gambit
 }
 
