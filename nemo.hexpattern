@@ -5,18 +5,27 @@ $Dilation Gambit
 Reveal
 
 Muninn's Reflection
+
+Reveal
+
 Flock's Disintegration
 
+Reveal
+
 Jester's Gambit
+
+Reveal
     
 {
     $Circle Entity
+    Reveal
     $Check Media
+    Reveal
 }
 
 {
     $Circle Entity
-        
+    Reveal
 }
 
 Numerical Reflection(2)
