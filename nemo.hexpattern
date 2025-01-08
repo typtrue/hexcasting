@@ -67,19 +67,16 @@
     Numerical Reflection(100)
     Minimus Distillation
     {
-        @str(hungy....)
-        Flock's Disintegration
+        {@str(hungy....)} >>
         Reveal
 
+        Bookkeeper's Gambit(v)
+
         Muninn's Reflection
-        Flock's Disintegration
-        Bookkeeper's Gambit(v-)
 
+        Numerical Reflection(0)
         Numerical Reflection(1)
-        Jester's Gambit
-
-        Numerical Reflection(2)
-        Flock's Gambit
+        Surgeon's Exaltation
 
         Huginn's Gambit
     }
@@ -94,7 +91,7 @@
 
 #def (Circle Entity)
 (
-    Orbit Reflection
+    $Orbit Reflection
 
     Jester's Gambit
     Mind's Reflection
@@ -159,7 +156,7 @@
 
 #def (Wisp Control)
 (
-    Dilation Gambit
+    $Dilation Gambit
 
     Muninn's Reflection
     Flock's Disintegration
@@ -167,12 +164,12 @@
     Jester's Gambit
     
     {
-        Circle Entity
-        Check Media
+        $Circle Entity
+        $Check Media
     }
 
     {
-        Circle Entity
+        $Circle Entity
         
     }
 
