@@ -96,11 +96,9 @@
 #def (Circle Entity)
 (
     $Orbit Reflection
-
-    Jester's Gambit
     Mind's Reflection
     Compass' Purification
-    Vector Reflection -Y
+    {@vec(0,-1,0)} >>
     Numerical Reflection(2)
     Division Distillation
     Additive Distillation
