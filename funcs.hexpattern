@@ -4,6 +4,8 @@
     Nullary Reflection
     Equality Distillation
     {
+        Numerical Reflection(1)
+        Haste
         {@num(0), @num(0)}
         Huginn's Gambit
     }
@@ -116,27 +118,10 @@
     
     Zone Distillation: Wisp
 
-    {
-        Identity Reflection
-        Gemini Decomposition
-        Equality Distillation
+    Identity Reflection
+    Single's Purification
 
-        {
-            Bookkeeper's Gambit(v)
-        }
-
-        {
-            Bookkeeper's Gambit(-)
-        }
-
-        Augur's Exaltation
-        Hermes' Gambit
-        
-    }
-
-    Jester's Gambit
-
-    Thoth's Gambit
+    Exclusionary Distillation
 
     Gemini Decomposition
 
@@ -149,7 +134,8 @@
     }
 
     {
-        Bookkeeper's Gambit(-)
+        Numerical Reflection(0)
+        Selection Distillation
     }
 
     Augur's Exaltation
