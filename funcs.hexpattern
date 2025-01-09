@@ -78,17 +78,11 @@
 
         Bookkeeper's Gambit(v)
 
-        Muninn's Reflection
-
-        Numerical Reflection(0)
-        Numerical Reflection(1)
-        Surgeon's Exaltation
-
-        Huginn's Gambit
+        $Change State(Numerical Reflection(1))
     }
 
     {
-        Bookkeeper's Gambit(-)
+        $Dummy
     }
 
     Augur's Exaltation
@@ -149,12 +143,28 @@
         Delay Wisp
     }
 
-    Waystone Reflection
-    Vector Reflection +Y
+    Mind's Reflection
+    Compass' Purification
+    {@vec(0,1,0)} >>
     Additive Distillation
     
-
-    Jester's Gambit
     Numerical Reflection(900)
     Summon Cyclic Wisp
+)
+
+#def (Change State)
+(
+Muninn's Reflection
+
+Numerical Reflection(0)
+<1>
+Surgeon's Exaltation
+
+Huginn's Gambit
+)
+
+#def (Dummy)
+(
+Numerical Reflection(0)
+Bookkeeper's Gambit(v)
 )
