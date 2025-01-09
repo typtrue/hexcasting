@@ -53,10 +53,8 @@ Selection Distillation
 }
 
 {
-    Numerical Reflection(0)
-    Reveal
-    Bookkeeper's Gambit(v)
     $Recharge Check
+    Reveal
     Gemini Decomposition
     Nullary Reflection
     Equality Distillation
@@ -67,7 +65,6 @@ Selection Distillation
     }
 
     {
-        Reveal
         
         {@pattern(SOUTHEAST, wqwwwqwwwdwewdwwwqwwwqwdwawqwawewwwaqqdaqadqqeaaqae)}
         Hermes' Gambit
@@ -78,6 +75,9 @@ Selection Distillation
 
         $Change State(Numerical Reflection(0))
     }
+
+    Augur's Exaltation
+    Hermes' Gambit
 }
 
 Numerical Reflection(4)
