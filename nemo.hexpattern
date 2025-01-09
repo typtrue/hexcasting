@@ -16,9 +16,9 @@ Selection Distillation
     Nullary Reflection
     Equality Distillation
     {
-        Numerical Reflection(0)
-        Bookkeeper's Gambit(v)
+        $Dummy
     }
+    
     {
         $Change State(Numerical Reflection(2))
     }
