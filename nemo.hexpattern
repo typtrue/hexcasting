@@ -5,27 +5,44 @@ $Dilation Gambit
 Reveal
 
 Muninn's Reflection
-
-Reveal
-
-Flock's Disintegration
-
-Reveal
-
-Jester's Gambit
-
-Reveal
+Numerical Reflection(0)
+Selection Distillation
     
 {
     $Circle Entity
-    Reveal
     $Check Media
-    Reveal
 }
 
 {
     $Circle Entity
-    Reveal
+    $Recharge Check
+    Nullary Reflection
+    Equality Distillation
+    {
+        Numerical Reflection(0)
+        Bookkeeper's Gambit(v)
+    }
+    {
+        Muninn's Reflection
+        Numerical Reflection(1)
+        Selection Distillation
+
+        Numerical Reflection(2)
+        Jester's Gambit
+        
+        Numerical Reflection(2)
+        Flock's Gambit
+
+        Huginn's Gambit
+    }
+
+    Selection Distillation
+    Hermes' Gambit
+}
+
+{
+    Numerical Reflection(0)
+    Bookkeeper's Gambit(v)
 }
 
 Numerical Reflection(2)
