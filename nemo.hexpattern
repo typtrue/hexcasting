@@ -4,17 +4,12 @@ $Dilation Gambit
 Muninn's Reflection
 Numerical Reflection(0)
 Selection Distillation
-{@str(current_state)} >>
-Reveal
 Bookkeeper's Gambit(v)
-Reveal
 
     
 {
     $Circle Entity
     $Check Media
-    {@str(a)} >>
-    Reveal
     Bookkeeper's Gambit(v)
 }
 
