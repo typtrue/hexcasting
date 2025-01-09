@@ -52,6 +52,9 @@ Selection Distillation
 }
 
 {
+    Numerical Reflection(0)
+    Reveal
+    Bookkeeper's Gambit(v)
     $Recharge Check
     Gemini Decomposition
     Nullary Reflection
@@ -63,7 +66,8 @@ Selection Distillation
     }
 
     {
-        Consume Wisp
+        {@pattern(SOUTH_EAST,wqwwwqwwwdwewdwwwqwwwqwdwawqwawewwwaqqdaqadqqeaaqae)} >>
+        Hermes' Gambit
 
         $Change State(Numerical Reflection(0))
     }
