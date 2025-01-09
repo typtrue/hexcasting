@@ -64,6 +64,8 @@ Selection Distillation
     }
 
     {
+        $Change State(Numerical Reflection(0))
+
         {@str(a)} >>
         Reveal
         Bookkeeper's Gambit(v)
@@ -74,8 +76,6 @@ Selection Distillation
         {@str(b)} >>
         Reveal
         Bookkeeper's Gambit(v)
-
-        $Change State(Numerical Reflection(0))
     }
 
     Augur's Exaltation
