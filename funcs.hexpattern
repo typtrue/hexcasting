@@ -108,7 +108,7 @@
 (
     Mind's Reflection
     Compass' Purification
-    Numerical Reflection(8)
+    <1>
     
     Zone Distillation: Wisp
 
@@ -167,4 +167,27 @@ Huginn's Gambit
 (
 Numerical Reflection(0)
 Bookkeeper's Gambit(v)
+)
+
+#def (Receiving Wisp)
+(
+    $Recharge Check(Numerical Reflection(2))
+    Gemini Decomposition
+    Nullary Reflection
+    Equality Distillation
+
+    {
+        Charon's Gambit
+    }
+
+    {
+        Gemini Decomposition
+        Recognition Purification
+        Allow Transfer
+        Timekeeper's Reflection
+        Delay Wisp
+    }
+    
+    Augur's Exaltation
+    Hermes' Gambit
 )
