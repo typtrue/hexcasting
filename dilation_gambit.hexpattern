@@ -2,7 +2,7 @@ Muninn's Reflection
 Nullary Reflection
 Equality Distillation
 {
-    Numerical Reflection(1)
+    {@num(0.5)} >>
     Haste
     {@num(0), @num(0)}
     Huginn's Gambit
