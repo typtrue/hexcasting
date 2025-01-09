@@ -13,7 +13,7 @@ Selection Distillation
 
 {
     $Circle Entity
-    $Recharge Check
+    $Recharge Check(Numerical Reflection(8))
     Nullary Reflection
     Equality Distillation
     {
@@ -29,7 +29,7 @@ Selection Distillation
 }
 
 {
-    $Recharge Check
+    $Recharge Check(Numerical Reflection(8))
     Gemini Decomposition
     Nullary Reflection
     Equality Distillation
@@ -53,7 +53,7 @@ Selection Distillation
 }
 
 {
-    $Recharge Check
+    $Recharge Check(Numerical Reflection(8))
     Gemini Decomposition
     Nullary Reflection
     Equality Distillation
