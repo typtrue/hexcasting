@@ -74,8 +74,14 @@ Reveal
     }
 
     {
-        {@pattern(SOUTH_EAST,wqwwwqwwwdwewdwwwqwwwqwdwawqwawewwwaqqdaqadqqeaaqae)} >>
+        Reveal
+        
+        {@pattern(SOUTH_EAST,wqwwwqwwwdwewdwwwqwwwqwdwawqwawewwwaqqdaqadqqeaaqae)}
         Hermes' Gambit
+
+        {@str(b)} >>
+        Reveal
+        Bookkeeper's Gambit(v)
 
         $Change State(Numerical Reflection(0))
     }
