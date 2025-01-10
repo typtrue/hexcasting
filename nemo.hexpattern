@@ -65,18 +65,10 @@ Selection Distillation
 
     {
         $Change State(Numerical Reflection(0))
-
-        {@str(a)} >>
-        Reveal
-        Bookkeeper's Gambit(v)
-
-        Reveal
-
         @pattern(SOUTHEAST,wqwwwqwwwdwewdwwwqwwwqwdwawqwawewwwaqqdaqadqqeaaqae)
 
-        {@str(b)} >>
-        Reveal
-        Bookkeeper's Gambit(v)
+        Numerical Reflection(10)
+        Delay Wisp
     }
 
     Augur's Exaltation
