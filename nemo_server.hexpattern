@@ -1,0 +1,84 @@
+#wget(funcs_server.hexpattern)(https://raw.githubusercontent.com/typtrue/hexcasting/refs/heads/main/funcs_server.hexpattern)
+
+$Dilation Gambit
+Muninn's Reflection
+Numerical Reflection(0)
+Selection Distillation
+
+    
+{
+    $Circle Entity
+    $Check Media
+}
+
+{
+    $Circle Entity
+    $Recharge Check(Numerical Reflection(8))
+    Nullary Reflection
+    Equality Distillation
+    {
+        $Dummy
+    }
+    
+    {
+        $Change State(Numerical Reflection(2))
+    }
+
+    Augur's Exaltation
+    Hermes' Gambit
+}
+
+{
+    $Recharge Check(Numerical Reflection(8))
+    Gemini Decomposition
+    Nullary Reflection
+    Equality Distillation
+    {
+        Bookkeeper's Gambit(v)
+
+        $Change State(Numerical Reflection(1))
+    }
+
+    {
+        Compass' Purification
+        Pathfinder's Gambit
+
+        $Change State(Numerical Reflection(3))
+
+        Wander
+    }
+
+    Augur's Exaltation
+    Hermes' Gambit
+}
+
+{
+    $Recharge Check(Numerical Reflection(8))
+    Gemini Decomposition
+    Nullary Reflection
+    Equality Distillation
+    {
+        Bookkeeper's Gambit(v)
+
+        $Change State(Numerical Reflection(1))
+    }
+
+    {
+        $Change State(Numerical Reflection(0))
+        @pattern(SOUTHWEST,wdwewdwqwaaqaewwddaeeeeeadqqwdwewdwawewwwewewewwwew)
+
+        Numerical Reflection(10)
+        Delay Wisp
+    }
+
+    Augur's Exaltation
+    Hermes' Gambit
+}
+
+Numerical Reflection(4)
+Flock's Gambit
+    
+Jester's Gambit
+
+Selection Distillation
+Hermes' Gambit

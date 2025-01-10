@@ -1,0 +1,196 @@
+#def (Dilation Gambit)
+(
+    Muninn's Reflection
+    Nullary Reflection
+    Equality Distillation
+    {
+        Identity Reflection
+        @pattern(EAST,qeeeeewqaeaqewwedeeed)
+        
+        {@num(0.35)} >>
+        Haste
+        {@num(0), @num(0)}
+        Huginn's Gambit
+    }
+
+    {
+        Muninn's Reflection
+        Flock's Disintegration
+        Numerical Reflection(1)
+        Additive Distillation
+        Numerical Reflection(2)
+        Flock's Gambit
+        Huginn's Gambit
+    }
+
+    Augur's Exaltation
+    Hermes' Gambit
+)
+
+#def (Orbit Reflection)
+(
+    Muninn's Reflection
+    Flock's Disintegration
+
+    Jester's Gambit
+    Bookkeeper's Gambit(v)
+
+    Arc's Reflection
+    Numerical Reflection(50)
+    Division Distillation
+    Multiplicative Distillation
+
+    Gemini Decomposition
+    Gemini Decomposition
+    
+    Sine Purification
+    Numerical Reflection(1)
+    Multiplicative Distillation
+
+    Jester's Gambit
+
+    Cosine Purification
+    Numerical Reflection(1)
+    Multiplicative Distillation
+    
+    Rotation Gambit
+    Arc's Reflection
+    Numerical Reflection(2)
+    Division Distillation
+    Multiplicative Distillation
+    
+    Cosine Purification
+    Numerical Reflection(1)
+    Numerical Reflection(4)
+    Division Distillation
+    Multiplicative Distillation
+    
+    Jester's Gambit
+    
+    Vector Exaltation
+)
+
+#def (Check Media)
+(
+    Reservoir Reflection
+    Numerical Reflection(100)
+    Minimus Distillation
+    {
+        {@str(hungy....)} >>
+        Reveal
+
+        Bookkeeper's Gambit(v)
+
+        $Change State(Numerical Reflection(1))
+    }
+
+    {
+        $Dummy
+    }
+
+    Augur's Exaltation
+    Hermes' Gambit
+)
+
+#def (Circle Entity)
+(
+    $Orbit Reflection
+    Mind's Reflection
+    Compass' Purification
+    {@vec(0,-1,0)} >>
+    Numerical Reflection(2)
+    Division Distillation
+    Additive Distillation
+            
+    Additive Distillation
+            
+    Pathfinder's Gambit
+)
+
+#def (Recharge Check)
+(
+    Identity Reflection
+    Compass' Purification
+    <1>
+    
+    Zone Distillation: Wisp
+
+    Identity Reflection
+    Single's Purification
+
+    Exclusionary Distillation
+
+    Gemini Decomposition
+
+    Vacant Reflection
+    Equality Distillation
+
+    {
+        Bookkeeper's Gambit(v)
+        Nullary Reflection
+    }
+
+    {
+        Numerical Reflection(0)
+        Selection Distillation
+    }
+
+    Augur's Exaltation
+    Hermes' Gambit
+)
+
+#def (Summon Fodder)
+(
+    {
+        Timekeeper's Reflection
+        Delay Wisp
+    }
+
+    Mind's Reflection
+    Compass' Purification
+    {@vec(0,1,0)} >>
+    Additive Distillation
+
+    Numerical Reflection(900)
+    Summon Cyclic Wisp
+)
+
+#def (Change State)
+(
+Muninn's Reflection
+
+Numerical Reflection(0)
+<1>
+Surgeon's Exaltation
+
+Huginn's Gambit
+)
+
+#def (Dummy)
+(
+Numerical Reflection(0)
+Bookkeeper's Gambit(v)
+)
+
+#def (Receiving Wisp)
+(
+    $Recharge Check(Numerical Reflection(2))
+    Gemini Decomposition
+    Nullary Reflection
+    Equality Distillation
+
+    {
+        Bookkeeper's Gambit(v)
+    }
+
+    {
+        Gemini Decomposition
+        Recognition Purification
+        Allow Transfer
+        Timekeeper's Reflection
+        Delay Wisp
+    }
+
+    Augur's Exaltation
+    Hermes' Gambit
+)
