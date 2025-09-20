@@ -6,6 +6,9 @@
     {
         Identity Reflection
         @pattern(EAST,dedqdeaeeaedeqeedweqa)
+
+        {@str(test1)} >>
+        Reveal
         
         {@num(0.35)} >>
         Haste
