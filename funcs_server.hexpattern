@@ -6,9 +6,6 @@
     {
         Identity Reflection
         @pattern(EAST,dedqdeaeeaedeqeedweqa)
-
-        {@str(test1)} >>
-        Reveal
         
         {@num(0.35)} >>
         Haste
@@ -97,8 +94,6 @@
 
 #def (Circle Entity)
 (
-    {@str(test2)} >>
-    Reveal
     $Orbit Reflection
     Mind's Reflection
     Compass' Purification
