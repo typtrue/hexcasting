@@ -97,6 +97,8 @@
 
 #def (Circle Entity)
 (
+    {@str(test2)} >>
+    Reveal
     $Orbit Reflection
     Mind's Reflection
     Compass' Purification
