@@ -67,6 +67,9 @@ Selection Distillation
         $Change State(Numerical Reflection(0))
         @pattern(SOUTHWEST,wdwewdwawewwwewwwawqwaweweqqwdedqwqdedaeeqwawqwwwqw)
 
+        {@str(test2)} >>
+        Reveal
+
         Numerical Reflection(10)
         Delay Wisp
     }
