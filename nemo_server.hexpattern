@@ -64,6 +64,9 @@ Selection Distillation
     }
 
     {
+        {@str(test2prior)} >>
+        Reveal
+
         $Change State(Numerical Reflection(0))
         @pattern(SOUTHWEST,wdwewdwawewwwewwwawqwaweweqqwdedqwqdedaeeqwawqwwwqw)
 
